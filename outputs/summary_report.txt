@@ -1,0 +1,21 @@
+STOCK MARKET PREDICTION - LSTM vs GRU - SUMMARY REPORT
+============================================================
+Dataset size            : 9909 rows (1980-12-12 to 2020-04-01)
+Window size (lookback)  : 60 trading days
+Train / test split      : 80% / 20%
+
+LSTM Results:
+  MAE  : 29.4595
+  RMSE : 42.9447
+  MAPE : 17.07%
+  R2   : 0.4468
+  Training time : 140.0s over 14 epochs
+
+GRU Results:
+  MAE  : 10.6950
+  RMSE : 17.1563
+  MAPE : 6.07%
+  R2   : 0.9117
+  Training time : 164.4s over 12 epochs
+
+Best performing model (lower RMSE): GRU
