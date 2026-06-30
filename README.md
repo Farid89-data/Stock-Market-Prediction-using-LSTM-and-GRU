@@ -1,13 +1,13 @@
 # Stock Market Prediction using LSTM and GRU
 
-**Module:** Artificial Intelligence and Neural Networks (COM7019) — Assignment [3921]
+**Module:** Artificial Intelligence and Neural Networks (COM7019) Assignment [3921]
 **Author:** Farid Negahbani (Student ID: 24154844)
 **Institution:** Arden University
 **Module Leader:** Ali Vaisifard
 
 ## 1. Project Overview
 
-This repository contains an end-to-end deep learning pipeline that designs, trains, and critically compares two recurrent neural network (RNN) architectures — **Long Short-Term Memory (LSTM)** and **Gated Recurrent Unit (GRU)** — for univariate stock closing-price prediction using historical daily OHLCV (Open, High, Low, Close, Volume) time-series data.
+This repository contains an end-to-end deep learning pipeline that designs, trains, and critically compares two recurrent neural network (RNN) architectures **Long Short-Term Memory (LSTM)** and **Gated Recurrent Unit (GRU)** for univariate stock closing-price prediction using historical daily OHLCV (Open, High, Low, Close, Volume) time-series data.
 
 The project was developed to satisfy Task 1 of the COM7019 assignment brief: *"Stock Market Prediction using LSTM and GRU"*, which requires the design, implementation, and critical comparison of both architectures, including experimentation with model configurations and the application of techniques to improve generalisation (dropout and early stopping).
 
