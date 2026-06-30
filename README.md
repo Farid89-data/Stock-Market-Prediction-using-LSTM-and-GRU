@@ -1,8 +1,11 @@
 # Stock Market Prediction using LSTM and GRU
 
 **Module:** Artificial Intelligence and Neural Networks (COM7019) Assignment [3921]
+
 **Author:** Farid Negahbani (Student ID: 24154844)
+
 **Institution:** Arden University
+
 **Module Leader:** Ali Vaisifard
 
 ## 1. Project Overview
