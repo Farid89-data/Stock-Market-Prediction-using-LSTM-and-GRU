@@ -8,6 +8,7 @@
 
 **Module Leader:** Ali Vaisifard
 
+
 ## 1. Project Overview
 
 This repository contains an end-to-end deep learning pipeline that designs, trains, and critically compares two recurrent neural network (RNN) architectures **Long Short-Term Memory (LSTM)** and **Gated Recurrent Unit (GRU)** for univariate stock closing-price prediction using historical daily OHLCV (Open, High, Low, Close, Volume) time-series data.
