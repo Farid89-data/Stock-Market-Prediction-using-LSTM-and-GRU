@@ -18,7 +18,7 @@ Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) - for univariate
 stock closing-price prediction. The pipeline covers data loading, exploratory
 data analysis, pre-processing (scaling and supervised-sequence windowing),
 model design, training with dropout and early stopping for generalisation,
-a controlled hyperparameter experiment, quantitative evaluation
+a controlled hyperparameter experiment, quantitative evaluation of
 (MAE, RMSE, MAPE, R^2), and the generation of all figures referenced in the
 accompanying report.
 
